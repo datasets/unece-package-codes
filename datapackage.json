@@ -1,0 +1,31 @@
+{
+	"name": "unece-package-codes",
+	"title": "Coded representations of the package type names used in International Trade (UNECE/CEFACT Trade Facilitation Recommendation No.21)",
+	"version": "Revision 9",
+	"sources": [{
+	  "name": "UNECE",
+      "web": "http://www.unece.org/tradewelcome/areas-of-work/un-centre-for-trade-facilitation-and-e-business-uncefact/outputs/cefactrecommendationsrec-index/list-of-trade-facilitation-recommendations-n-21-to-24.html"
+  }],
+	"resources": [
+	  {
+	    "path": "data.csv",
+		"schema": {
+		  "fields": [
+		    {
+			  "name": "Code",
+			  "type": "string",
+			  "description": "A 2 character code assigned by the UNECE/CEFACT"
+			},
+			{
+			  "name": "Name",
+			  "type": "string"
+		    },
+			{
+			  "name": "Description",
+			  "type": "string"
+			}
+		  ]
+		}	  
+	  }
+	]
+}
