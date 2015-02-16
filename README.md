@@ -14,3 +14,5 @@ A letter X (X) Marked as deleted. Code entries marked as deleted will be retaine
 An equals Reinstated. Code entries previously sign (=) Marked as deleted and reinstated in this release of the code list.
 
 Requests for addition to the codes should be made to the Information Content Management Group (ICG) at cefact@unece.org
+
+This data is made available under the Public Domain Dedication and License version v1.0 whose full text can be found at http://opendatacommons.org/licenses/pddl/ - See more at: http://opendatacommons.org/guide/#sthash.97PSVxmh.dpuf
