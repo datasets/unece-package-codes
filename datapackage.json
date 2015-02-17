@@ -1,7 +1,7 @@
 {
 	"name": "unece-package-codes",
         "title": "UNECE/CEFACT package codes",
-        "license": "PDDL-1.0",
+        "license": "ODC-PDDL-1.0",
 	"description": "Coded representations of the package type names used in International Trade (UNECE/CEFACT Trade Facilitation Recommendation No.21)",
 	"version": "9.0.0",
 	"sources": [{
@@ -10,13 +10,13 @@
   }],
 	"resources": [
 	  {
-	    "path": "data.csv",
+	    "path": "data/data.csv",
 		"schema": {
 		  "fields": [
 		    {
 			  "name": "Code",
 			  "type": "string",
-			  "description": "A 2 character code referencing the ISO Country Code (ISO 3166) ",
+			  "description": "A 2 character code referencing the ISO Country Code (ISO 3166)",
 			  "pattern": "[A-Z]{2}"
 			},
 			{
