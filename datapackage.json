@@ -16,7 +16,7 @@
 		    {
 			  "name": "Code",
 			  "type": "string",
-			  "description": "A 2 character code referencing the ISO Country Code (ISO 3166)",
+			  "description": "A 2 character alpha numeric code value agreed by the UN/CEFACT content management group",
 			  "pattern": "[A-Z]{2}"
 			},
 			{
