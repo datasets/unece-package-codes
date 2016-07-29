@@ -376,8 +376,8 @@ ZW,"Intermediate bulk container, natural wood",
 ZX,"Intermediate bulk container, plywood",
 ZY,"Intermediate bulk container, reconstituted wood",
 ZZ,Mutually defined ,
-13,"Flexible IBC for solids, filled or discharged by gravity (liquids and solids under pressure [>0.1 bar] are not permitted)"
-13H1,"Woven PP fabric without coating or inner liner"
-13H2,"Woven PP fabric, coated"
-13H3,"Woven PP fabric with inner liner"
-13H4,"Woven PP fabric, coated and with inner liner"
+13,"Flexible IBC for solids, filled or discharged by gravity (liquids and solids under pressure [>0.1 bar] are not permitted)",
+13H1,"Woven PP fabric without coating or inner liner",
+13H2,"Woven PP fabric, coated",
+13H3,"Woven PP fabric with inner liner",
+13H4,"Woven PP fabric, coated and with inner liner",
