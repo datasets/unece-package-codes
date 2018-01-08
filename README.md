@@ -1,5 +1,6 @@
-# unece-package-codes
 Coded representations of the package type names used in International Trade (UNECE/CEFACT Trade Facilitation Recommendation No.21)
+
+## Data
 
 Source of information is from the UNECE website: http://www.unece.org/tradewelcome/areas-of-work/un-centre-for-trade-facilitation-and-e-business-uncefact/outputs/cefactrecommendationsrec-index/list-of-trade-facilitation-recommendations-n-21-to-24.html
 
@@ -14,5 +15,7 @@ A letter X (X) Marked as deleted. Code entries marked as deleted will be retaine
 An equals Reinstated. Code entries previously sign (=) Marked as deleted and reinstated in this release of the code list.
 
 Requests for addition to the codes should be made to the Information Content Management Group (ICG) at cefact@unece.org
+
+## License
 
 This data is made available under the Public Domain Dedication and License version v1.0 whose full text can be found at http://opendatacommons.org/licenses/pddl/ - See more at: http://opendatacommons.org/guide/#sthash.97PSVxmh.dpuf
