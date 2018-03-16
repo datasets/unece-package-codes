@@ -1,7 +1,13 @@
 {
 	"name": "unece-package-codes",
   "title": "UNECE/CEFACT package codes",
-  "license": "ODC-PDDL-1.0",
+	"licensces": [
+		{
+			"name": "ODC-PDDL-1.0",
+			"path": "http://opendatacommons.org/licenses/pddl/",
+			"title": "Open Data Commons Public Domain Dedication and License v1.0"
+		}
+	],
 	"description": "Coded representations of the package type names used in International Trade (UNECE/CEFACT Trade Facilitation Recommendation No.21)",
 	"version": "9.0.0",
 	"sources": [
